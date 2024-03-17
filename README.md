@@ -1,8 +1,8 @@
-Getting Started
-Clone the Repository:
-git clone 
+# Full Stack E-commerce App
+## Getting Started
+Clone this Repository or download the zip file 
 
-Backend Setup:
+## Backend Setup:
 Open the project in your IDE.
 Run the Spring Boot application (SpringBootReactAppApplication.java).
 The backend will run on http://localhost:8080.
@@ -10,10 +10,10 @@ Frontend Setup:
 Navigate to the frontend directory:
 cd fullstack_Ecommerce_App/frontend
 
-Install dependencies:
+## Install dependencies:
 npm install
 
-Start the React development server:
+## Start the React development server:
 npm start
 
 The frontend will run on http://localhost:3000.
